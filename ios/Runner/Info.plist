@@ -45,5 +45,28 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	
+	<!-- Location -->
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>We need your location to show nearby content</string>
+
+	<!-- Camera -->
+	<key>NSCameraUsageDescription</key>
+	<string>Camera access is needed to take pictures</string>
+
+	<!-- Biometric Auth -->
+	<key>NSFaceIDUsageDescription</key>
+	<string>Face ID is used for secure authentication</string>
+
+	<!-- Photo Library -->
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Photo access is needed to select images</string>
+
+	<!-- Internet -->
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
 </dict>
 </plist>
