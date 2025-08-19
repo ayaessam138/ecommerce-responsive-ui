@@ -5,6 +5,19 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+include features:
+1-Home(show latestproducts.lastestoffers,)
+2-sales(where offers found you can fillter products by many fillters colors, size, stock )
+3-profile(editprofile, wallett to show your trancation, your orders, App seetings, logout, delete account)
+4- cart
+5-review product
+6-wishlist
+7- compare Products
+Technologies:
+1-cubit statemangement
+2-payment integration
+3-reponsive ui
+4-Clean arch
 
 ![Screenshot_20250721_192355](https://github.com/user-attachments/assets/f17a7952-f7b2-45a7-aa15-f96202c42c88)
 ![Screenshot_20250721_192349](https://github.com/user-attachments/assets/98e1cd1d-9e1d-481d-95cf-e2c13e9fa654)
